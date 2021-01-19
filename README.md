@@ -1,0 +1,2 @@
+# TestCharpDeleteFiles
+TestCharpDeleteFiles
